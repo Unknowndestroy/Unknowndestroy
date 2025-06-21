@@ -39,7 +39,7 @@
 
 ---
 
-## 🎧 Spotify Now Playing
+## 🎧 Spotify Random Song
 
 <p align="center">
   <img src="https://spotify-github-readme.vercel.app/api/spotify?uid=2thctisnfj2k6fo9ruyvexf2r&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
