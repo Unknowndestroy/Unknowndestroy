@@ -34,30 +34,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknowndestroy&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Unknowndestroy&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unknowndestroy&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
+
+## 🎧 Spotify Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-readme.vercel.app/api/spotify?uid=2thctisnfj2k6fo9ruyvexf2r&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify?uid=2thctisnfj2k6fo9ruyvexf2r&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Unknowndestroy&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
-
----
-
-## 🐍 Snake Activity (animated)
-
-<p align="center">
-  <img src="https://github.com/Unknowndestroy/Unknowndestroy/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-> Snake animasyonu için özel ayar yapmamız gerekirse söyle, hazırlarım.
 
 ---
 
@@ -88,7 +82,6 @@
   <a href="https://discord.com/users/anonymous_destroyer01"><img src="https://img.shields.io/badge/Discord-@anonymous_destroyer01-5865F2?style=flat-square&logo=discord"></a>
   <a href="https://www.reddit.com/user/Bulky_Award8839/"><img src="https://img.shields.io/badge/Reddit-Bulky_Award8839-FF4500?style=flat-square&logo=reddit"></a>
 </p>
-
 
 ---
 
